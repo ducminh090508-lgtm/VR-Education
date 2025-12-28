@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Junk Ship
+* source:	https://sketchfab.com/3d-models/chinese-junk-ship-35b340bce9fb4e0680bc0116cebc35c9
+* author:	pinkycolada (https://sketchfab.com/pinkycolada)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Junk Ship" (https://sketchfab.com/3d-models/chinese-junk-ship-35b340bce9fb4e0680bc0116cebc35c9) by pinkycolada (https://sketchfab.com/pinkycolada) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
